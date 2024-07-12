@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527541727556",
+    "project_id": "coba-lagii",
+    "storage_bucket": "coba-lagii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527541727556:android:a7512ccf54a349e9452711",
+        "android_client_info": {
+          "package_name": "com.example.jujur_ajalah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxWTkZY8tFUaRXquQLMZmLj9jX1AggEoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
