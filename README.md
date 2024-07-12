@@ -1,6 +1,6 @@
 # jujur_ajalah
 
-A new Flutter project.
+Project latihan flutter sebagai aplikasi absensi dengan cara scan wajah dan detect location
 
 ## Getting Started
 
